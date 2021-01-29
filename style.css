@@ -24,6 +24,7 @@ ins {
 
 a {
     color: maroon;
+
 }
 
 h1 {
@@ -47,4 +48,9 @@ ul {
     color: darkgray;
     justify-content: center; 
     align-items: center;
+}
+p1 {
+    color: rgb(124, 114, 189);
+    text-align: center;
+    
 }
